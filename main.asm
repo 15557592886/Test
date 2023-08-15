@@ -46,8 +46,8 @@ V_Main:
 		bsr		porta,2
 		nop
 		nop
-		nop
-		nop
+		;nop
+		;nop
     	movia	0
     	iost	IOSTA
     	movia	0xff
