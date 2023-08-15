@@ -46,6 +46,7 @@ V_Main:
 		bsr		porta,2
 		nop
 		nop
+		clrwdt
 		;nop
 		;nop
     	movia	0
